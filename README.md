@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0596-classes-more-than-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0601-human-traffic-of-stadium) |
 | [1179-game-play-analysis-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1182-game-play-analysis-iv) |
 | [1415-students-and-examinations](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1415-students-and-examinations) |
