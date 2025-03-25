@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1182-game-play-analysis-iv) |
 | [1415-students-and-examinations](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1415-students-and-examinations) |
