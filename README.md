@@ -31,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1415-students-and-examinations](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
