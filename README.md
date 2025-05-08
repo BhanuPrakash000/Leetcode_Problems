@@ -35,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1292-immediate-food-delivery-ii) |
+| [1301-reformat-department-table](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
