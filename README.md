@@ -37,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/BhanuPrakash000/Leetcode_Problems/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
